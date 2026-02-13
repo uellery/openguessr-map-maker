@@ -32,9 +32,18 @@ Tazminat Muafiyeti: Bu kodu kurarak veya kullanarak; geliştiriciyi her türlü 
 
 Bu şartları kabul etmiyorsanız veya riskleri tam olarak anlamadıysanız, bu projeyi kurmayın ve kullanmayın.
 
+---
+
 ## 📲 Installation / Kurulum
 
-Click the link below to install via Tampermonkey:
-Tampermonkey üzerinden yüklemek için aşağıdaki bağlantıya tıklayın:
+The easiest way to install **Ellery Map Marker** is via Tampermonkey. Click the button below to start the automatic installation process.
 
-[👉 ONE-CLICK INSTALL / TEK TIKLA YÜKLE]((https://github.com/kullaniciadi/proje-adi/raw/main/ellery-map-marker.user.js))
+**Ellery Map Marker**'ı yüklemenin en kolay yolu Tampermonkey kullanmaktır. Otomatik kurulum işlemini başlatmak için aşağıdaki butona tıklayın:
+
+[![Install with Tampermonkey](https://img.shields.io/badge/INSTALL-CLICK_HERE-blueviolet?style=for-the-badge&logo=tampermonkey)](https://github.com/kullaniciadi/proje-adi/raw/main/ellery-map-marker.user.js)
+
+> **Note:** If the link opens as a text file instead of a prompt, make sure you have the Tampermonkey extension active in your browser.
+> 
+> **Not:** Eğer bağlantı bir yükleme ekranı yerine düz metin dosyası olarak açılırsa, tarayıcınızda Tampermonkey eklentisinin aktif olduğundan emin olun.
+
+---
