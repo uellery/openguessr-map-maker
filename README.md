@@ -1,0 +1,1 @@
+# openguessr-map-maker
