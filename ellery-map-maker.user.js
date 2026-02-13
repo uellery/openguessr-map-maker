@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Openguessr Location Hack (Ellery Ultra-Smooth)
+// @name         Openguessr Location (Ellery Ultra-Smooth)
 // @namespace    https://openguessr.com/
 // @version      41.7
 // @description  Hızlı mouse hareketlerinde takılma sorunu giderildi. Global Drag & Resize sistemi.
@@ -179,5 +179,6 @@
             }
         }
     });
+
 
 })();
