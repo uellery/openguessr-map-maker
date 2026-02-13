@@ -31,3 +31,10 @@ Destek Verilmez: Bu çalışma kararsız bir deney aşamasında olduğundan, tek
 Tazminat Muafiyeti: Bu kodu kurarak veya kullanarak; geliştiriciyi her türlü yasal talepten, zarardan veya yükümlülükten muaf tutmayı ve tüm sorumluluğu üstlenmeyi kabul etmiş sayılırsınız.
 
 Bu şartları kabul etmiyorsanız veya riskleri tam olarak anlamadıysanız, bu projeyi kurmayın ve kullanmayın.
+
+## 📲 Installation / Kurulum
+
+Click the link below to install via Tampermonkey:
+Tampermonkey üzerinden yüklemek için aşağıdaki bağlantıya tıklayın:
+
+[👉 ONE-CLICK INSTALL / TEK TIKLA YÜKLE]((https://github.com/kullaniciadi/proje-adi/raw/main/ellery-map-marker.user.js))
